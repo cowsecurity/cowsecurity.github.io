@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "About This Security Nerd"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm Cowsecurity, a security engineer from India with a knack for finding vulnerabilities and an unhealthy obsession with anime.
-
-About This Security Nerd
 ======
 I'm a versatile security professional with expertise in multiple programming languages including Python, JavaScript, Go, PHP, and OCaml. My skill set allows me to approach security challenges from various angles, whether it's hardening applications, securing cloud infrastructures, or developing robust security solutions.
 
