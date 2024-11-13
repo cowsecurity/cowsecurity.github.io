@@ -1,39 +1,29 @@
 ---
 permalink: /
-title: "About This Security Nerd"
+title: "Hey there! 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-======
-I'm a versatile security professional with expertise in multiple programming languages including Python, JavaScript, Go, PHP, and OCaml. My skill set allows me to approach security challenges from various angles, whether it's hardening applications, securing cloud infrastructures, or developing robust security solutions.
+I build stuff that makes security tools work better. Mostly because I got tired of doing things manually and thought "there's gotta be a better way." When I'm not coding, I'm probably tinkering with some new tech or binge-watching anime.
 
-My Arsenal
+What I'm Up To
 ======
-* Application Security (Because someone has to keep developers honest)
-* Cloud Security (Head in the clouds, feet firmly on the ground)
-* Penetration Testing (It's exactly what it sounds like, and nothing like what you're thinking)
-* Security Lab Development (Where I play mad scientist, legally)
-* I speak fluent Machine
+* Building some cool security tools (trust me, they're cooler than they sound)
+* Playing with AI (because why not?)
+* Breaking things (professionally, of course)
+* Making life easier for fellow security folks
 
-Classified Projects
+Let's Connect!
 ======
-Super secret - TBD
+Got ideas? Want to collaborate? Or just want to chat about the latest anime? Find me on discord (cow.security)
 
-Future Blog Posts
+When I'm Not Coding
 ======
-TBD
-
-Connect
-======
-Want to debate the finer points of where to store JWT or settle the age-old question of Goku vs Saitama? I'm your person. Reach out via discord (cow.security).
-
-Anime Corner
-======
-A glimpse into my personal anime hall of fame:
-
-1. Steins;Gate
-2. Wistoria
-3. A Silent Voice
+You'll find me:
+* Watching anime
+* Debating tech stuff on Discord
+* Probably procrastinating on Twitter
+* Learning something new (or at least trying to)
