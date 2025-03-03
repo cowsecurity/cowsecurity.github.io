@@ -30,4 +30,4 @@ This is just the start. Got a ton of features in the pipeline. Been testing it w
 Let's see if we can make security not suck for once.
 
 Later,
-- Cowsecurity
+Cowsecurity
